@@ -60,19 +60,20 @@
             .data(countries)
             .enter().append("g")
             .attr("class", function(d) { return "emissionsPC country " + d.key; })
-            .on("mouseover", function(d) { highlightLine(d.key); });
+            .on("mouseover", function(d) { highlightLine(d.key, d.values[0].country); });
 
         countries.append("path")
             .attr("class", "line")
             .attr("d", function(d) { return line(d.values); });
 
-        highlightLine("WLD");
+        highlightLine("WLD", "World");
     });
 
-    function highlightLine(country_code) {
+    function highlightLine(country_code, country_name) {
         d3.selectAll(".emissionsPC").classed("selected", false);
         d3.select(".emissionsPC." + country_code).classed("selected", true);
         d3.select(".emissionsPC." + country_code).moveToFront();
+        d3.select("#historicalEmissionsName").text(country_name);
     }
 
     d3.selection.prototype.moveToFront = function() {
