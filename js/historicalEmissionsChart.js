@@ -60,7 +60,8 @@
             .data(countries)
             .enter().append("g")
             .attr("class", function(d) { return "emissionsPC country " + d.key; })
-            .on("mouseover", function(d) { highlightLine(d.key, d.values[0].country); });
+            .on("mouseover", function(d) { highlightLine(d.key, d.values[0].country); })
+            .on("mouseout", function() { highlightLine("WLD", "World"); });
 
         countries.append("path")
             .attr("class", "line")
