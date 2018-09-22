@@ -11,6 +11,10 @@
     var yScale = d3.scaleLinear()
         .rangeRound([height, 0]);
 
+    var colorScale = d3.scaleOrdinal()
+        .domain(["No policy", "Low policy", "Paris - Continued ambition", "Paris - Increased ambition"])
+        .range(["#d2d2d2", "#696969", "#a2d4ec", "#1696d2"]);
+
     var line = d3.line()
         // .curve(d3.curveStepAfter)
         .x(function(d) { return xScale(d.year); })
@@ -40,15 +44,17 @@
 
         forecastData = data;
 
-        yScale.domain([d3.min(data, function(d) { return d.emissions; }), d3.max(data, function(d) { return d.emissions; })]);
+        yScale.domain([0, d3.max(forecastData, function(d) { return d.emissions; })]);
 
         var forecasts = getData("World");
-console.log(forecasts);
+
         svg.append("g")
+            .attr("class", "axis axis--x")
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(xScale).tickFormat(d3.format("d")));
 
         svg.append("g")
+            .attr("class", "axis axis--y")
             .call(d3.axisLeft(yScale))
         .append("text")
             .attr("fill", "#000")
@@ -58,7 +64,7 @@ console.log(forecasts);
             .attr("text-anchor", "end")
             .text("Emissions");
 
-        var forecasts = svg.selectAll(".forecast")
+        var forecasts = svg.selectAll(".forecastLine")
             .data(forecasts)
             .enter().append("g")
             .attr("class", function(d) { return "forecastLine region " + d.key; });
@@ -67,7 +73,7 @@ console.log(forecasts);
             .attr("class", "line")
             .attr("d", function(d) { return line(d.values); })
             .style("fill", "none")
-            .style("stroke", "steelblue");
+            .style("stroke", function(d) { return colorScale(d.key); });
     });
 
     function getData(region) {
@@ -78,4 +84,28 @@ console.log(forecasts);
 
         return data;
     }
+
+    function updateChart(newRegion) {
+        var data = forecastData.filter(function(d) { return d.region === newRegion; });
+        var newData = getData(newRegion);
+
+        yScale.domain([0, d3.max(data, function(d) { return d.emissions; })]);
+        updateAxis(yScale);
+
+        var forecasts = d3.selectAll(".forecastLine")
+            .data(newData)
+            .transition();
+
+        forecasts.select(".line")
+            .attr("d", function(d) { return line(d.values); });
+    }
+
+    function updateAxis(yScale) {
+        d3.select("#forecastChart .axis.axis--y")
+            .transition()
+            .call(d3.axisLeft(yScale));
+    }
+
+    d3.select("#regionSelector").on("change", function() { updateChart(this.value); });
+
 })();
