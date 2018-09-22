@@ -7,13 +7,117 @@
         <link rel="shortcut icon" href="favicon.ico" type="img/x-icon">
         <title>Paris Climate Agreement</title>
 
+        <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
+
         <link rel="stylesheet" type="text/css" href="css/styles.css">
     </head>
     <body>
 
-        <div id="bubbleChart" class="chart"></div>
+        <div class='container'>
+            <h2>ScrollMagic</h2>
+            <div class='graphic'>
+                <div class='graphic__prose'>
+                    <p class='trigger' data-step='0'>Step 1 in the graphic. It triggers in the middle of the viewport. For this graphic, it is the same as the initial state so the reader doesn&rsquo;t miss anything.</p>
+                    <p class='trigger' data-step='1'>Step 2 arrives. The graphic should be locking into a fixed position right about now. We could have a whole bunch of these &ldquo;fixed&rdquo; steps.</p>
+                    <p class='trigger' data-step='2'>Step 3 concludes our brief tour. The graphic should now go back to its original in-flow position, elegantly snapping back into place.</p>
+                </div>
+                <div class='graphic__vis'>
+                    <div id="bubbleChart" class="chart"></div>
+                </div>
+            </div>
+        </div>
 
         <script src="https://d3js.org/d3.v4.min.js"></script>
         <script src="js/bubbleChart.js"></script>
+        <script>
+            (function() {
+
+                // helper function so we can map over dom selection
+                function selectionToArray(selection) {
+                    var len = selection.length
+                    var result = []
+                    for (var i = 0; i < len; i++) {
+                        result.push(selection[i])
+                    }
+                    return result
+                }
+
+                    function scrollmagic() {
+                        // select elements
+                        var graphicEl = document.querySelector('.graphic')
+                        var graphicVisEl = graphicEl.querySelector('.graphic__vis')
+                        var triggerEls = selectionToArray(graphicEl.querySelectorAll('.trigger'))
+
+                        // viewport height
+                        var viewportHeight = window.innerHeight
+                        var halfViewportHeight = Math.floor(viewportHeight / 2)
+
+                        // a global function creates and handles all the vis + updates
+                        var graphic = createGraphic('.graphic')
+
+                        // handle the fixed/static position of grahpic
+                        var toggle = function(fixed, bottom) {
+                            if (fixed) graphicVisEl.classList.add('is-fixed')
+                            else graphicVisEl.classList.remove('is-fixed')
+
+                            if (bottom) graphicVisEl.classList.add('is-bottom')
+                            else graphicVisEl.classList.remove('is-bottom')
+                        }
+
+                        // init controller
+                        var controller = new ScrollMagic.Controller()
+
+                        // setup a scrollmagic trigger ("scene") for each trigger element
+                        var scenes = triggerEls.map(function(el) {
+                            // get the step, cast as number
+                            var step = +el.getAttribute('data-step')
+
+                            var scene = new ScrollMagic.Scene({
+                                triggerElement: el, // our trigger element
+                                triggerHook: 'onCenter', // 0.5, defaults to this
+                                // duration: el.offsetHeight, // how long it lasts for (in pixels)
+                            })
+
+                            scene
+                                .on('enter', function(event) {
+                                    // tell our graphic to update with a specific step
+                                    graphic.update(step)
+                                })
+                                .on('leave', function(event) {
+                                    var nextStep = Math.max(0, step - 1)
+                                    graphic.update(nextStep)
+                                })
+
+                            // add it to controller so it actually fires
+                            scene.addTo(controller)
+                        })
+
+                        // create a scene to toggle fixed position
+                        var enterExitScene = new ScrollMagic.Scene({
+                            triggerElement: graphicEl,
+                            triggerHook: '0',
+                            duration: graphicEl.offsetHeight - viewportHeight,
+                        })
+
+                        enterExitScene
+                            .on('enter', function(event) {
+                                var fixed = true
+                                var bottom = false
+                                toggle(fixed, bottom)
+                            })
+                            .on('leave', function(event) {
+                                var fixed = false
+                                var bottom = event.scrollDirection === 'FORWARD'
+                                toggle(fixed, bottom)
+                            })
+
+                        enterExitScene.addTo(controller)
+                    }
+
+                    scrollmagic()
+
+            })()
+        </script>
     </body>
 </html>

@@ -1,3 +1,32 @@
+.container {
+    width: 800px;
+}
+
+.graphic {
+    position: relative;
+}
+
+.graphic__prose {
+    width: 200px;
+}
+
+.graphic__vis {
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    margin-left: 200px;
+}
+
+article {
+  position: relative;
+}
+
+figure.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
 .countryNameLabel {
     text-anchor: middle
 }
