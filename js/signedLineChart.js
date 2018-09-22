@@ -2,7 +2,7 @@
     var width = 800,
         height = 500;
 
-    var margin = {left: 40, top: 40, right: 40, bottom: 40};
+    var margin = {left: 40, top: 40, right: 5, bottom: 50};
 
     var xScale = d3.scaleLinear()
         .domain([0, 1095])
@@ -21,8 +21,8 @@
 
     var svg = d3.select("#signedLineChart")
         .append("svg")
-        .attr("width", width + margin.top + margin.bottom)
-        .attr("height", height + margin.left + margin.right)
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -44,7 +44,13 @@
         svg.append("g")
             .attr("class", "axis axis--x")
             .attr("transform", "translate(0," + height + ")")
-            .call(d3.axisBottom(xScale));
+            .call(d3.axisBottom(xScale))
+        .append("text")
+            .attr("class", "axisLabel")
+            .attr("transform", "translate(" + width/2 + ", 40)")
+            .attr("text-anchor", "middle")
+            .style("fill", "black")
+            .text("Number of days since treaty signed");
 
         svg.append("g")
             .attr("class", "axis axis--y")
@@ -65,25 +71,28 @@
         treaty.append("path")
             .attr("class", "line")
             .attr("d", function(d) { return line(d.values); })
-            .style("stroke", "steelblue")
             .attr("fill", "none")
-            .attr("stroke", "steelblue")
+            .attr("stroke", function(d) {
+                if(d.key === "Paris") {return "#fdbf11";}
+                else if(d.key === "Kyoto") {return "#0a4c6a";}
+                else if(d.key === "Doha") {return "#12719e";}
+            })
             .attr("stroke-linejoin", "round")
             .attr("stroke-linecap", "round")
             .attr("stroke-width", 1.5);
 
         var label_dat = [
             {treaty: "Paris", days_since_signed: 989, total_countries: 180},
-            {treaty: "Kyoto", days_since_signed: 989, total_countries: 25},
-            {treaty: "Doha", days_since_signed: 989, total_countries: 43}
+            {treaty: "Kyoto", days_since_signed: 1050, total_countries: 30},
+            {treaty: "Doha", days_since_signed: 1050, total_countries: 50}
         ];
 
         svg.selectAll("lineLabels")
             .data(label_dat)
             .enter()
             .append("text")
-            .attr("x", function(d) { return xScale(d.days_since_signed); })
-            .attr("y", function(d) { return yScale(d.total_countries); })
+            .attr("x", function(d) { return xScale(d.days_since_signed) + 10; })
+            .attr("y", function(d) { return d.treaty === "Paris" ? yScale(d.total_countries) : yScale(d.total_countries) + 10; })
             .attr("dy", "0.35em")
             .style("font", "10px sans-serif")
             .text(function(d) { return d.treaty; });
