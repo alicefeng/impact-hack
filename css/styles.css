@@ -2,6 +2,10 @@
     width: 800px;
 }
 
+#intro {
+    height: 100vh;
+}
+
 .graphic {
     position: relative;
 }
@@ -13,8 +17,24 @@
 .graphic__vis {
     position: absolute;
     top: 0;
-    height: 100vh;
     margin-left: 200px;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    height: 100vh;
+}
+
+.graphic__vis.is-fixed {
+    position: fixed;
+}
+
+.graphic__vis.is-bottom {
+    top: auto;
+    bottom: 0;
+}
+
+.graphic__prose .trigger {
+    height: 500px;
 }
 
 article {
@@ -27,6 +47,20 @@ figure.sticky {
   top: 0;
 }
 
+.country circle {
+    fill: #1696d2;
+    fill-opacity: 1;
+}
+
+.country circle.hidden {
+    fill-opacity: 0;
+}
+
 .countryNameLabel {
-    text-anchor: middle
+    text-anchor: middle;
+    fill-opacity: 1;
+}
+
+.countryNameLabel.hidden {
+    fill-opacity: 0;
 }

@@ -15,8 +15,11 @@
     <body>
 
         <div class='container'>
-            <h2>ScrollMagic</h2>
-            <div class='graphic'>
+            <section id="intro">
+                <h1>Paris Climate Agreement</h1>
+                <p>Intro text here</p>
+            </section>
+            <section class='graphic'>
                 <div class='graphic__prose'>
                     <p class='trigger' data-step='0'>Step 1 in the graphic. It triggers in the middle of the viewport. For this graphic, it is the same as the initial state so the reader doesn&rsquo;t miss anything.</p>
                     <p class='trigger' data-step='1'>Step 2 arrives. The graphic should be locking into a fixed position right about now. We could have a whole bunch of these &ldquo;fixed&rdquo; steps.</p>
@@ -25,7 +28,7 @@
                 <div class='graphic__vis'>
                     <div id="bubbleChart" class="chart"></div>
                 </div>
-            </div>
+            </section>
         </div>
 
         <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -54,7 +57,8 @@
                         var halfViewportHeight = Math.floor(viewportHeight / 2)
 
                         // a global function creates and handles all the vis + updates
-                        var graphic = createGraphic('.graphic')
+                        // var graphic = createGraphic('.graphic')
+                        var graphic = document.querySelector('#bubbleChart')
 
                         // handle the fixed/static position of grahpic
                         var toggle = function(fixed, bottom) {
@@ -82,11 +86,11 @@
                             scene
                                 .on('enter', function(event) {
                                     // tell our graphic to update with a specific step
-                                    graphic.update(step)
+                                    updateGraph(step)
                                 })
                                 .on('leave', function(event) {
                                     var nextStep = Math.max(0, step - 1)
-                                    graphic.update(nextStep)
+                                    updateGraph(nextStep)
                                 })
 
                             // add it to controller so it actually fires
