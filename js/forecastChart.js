@@ -1,8 +1,8 @@
 (function() {
-    var width = 800,
-        height = 500;
+    var width = 700,
+        height = 400;
 
-    var margin = {left: 50, top: 40, right: 40, bottom: 40};
+    var margin = {left: 50, top: 10, right: 40, bottom: 40};
 
     var xScale = d3.scaleLinear()
         .domain([2005, 2100])
@@ -13,7 +13,7 @@
 
     var colorScale = d3.scaleOrdinal()
         .domain(["No policy", "Low policy", "Paris - Continued ambition", "Paris - Increased ambition"])
-        .range(["#d2d2d2", "#696969", "#a2d4ec", "#1696d2"]);
+        .range(["#d2d2d2", "#696969", "#78c26d", "#55b748"]);
 
     var line = d3.line()
         // .curve(d3.curveStepAfter)

@@ -4,6 +4,10 @@ body {
     color: #d5d5d4;
 }
 
+p {
+    font-size: 16px;
+}
+
 text {
     font-family: 'Lato';
     fill: #d5d5d4;
@@ -19,8 +23,14 @@ section {
     min-height: 100vh;
 }
 
+section.slide {
+    height: 100vh;
+    box-sizing: border-box;
+    padding: 40px 0;
+}
 img {
     max-width: 100%;
+    margin: 20px 0;
 }
 
 .graphic {
@@ -67,6 +77,10 @@ img {
     stroke: #d5d5d4;
 }
 
+.lineLabel {
+    text-anchor: end;
+}
+
 .country circle {
     fill: #adabac;
     transition-property: fill-opacity;
@@ -106,6 +120,38 @@ img {
 }
 
 .emissionsPC.selected path {
-    stroke: steelblue;
+    stroke: #e88e2d;
     stroke-opacity: 1;
+    stroke-width: 4;
+}
+
+
+/*********** Legend styles *************/
+.legend {
+    display: inline-block;
+    float: left;
+    padding: 15px 0px 15px 40px;
+    width: 100%;
+    margin: 15px 0;
+}
+
+.legendRow {
+    width: 20%;
+    float: left;
+    margin-right: 10px;
+}
+
+.legendText {
+    font-family: Lato;
+    font-size: 13px;
+    float: left;
+    width: 90%;
+}
+
+.legendSquare {
+    /*display: inline-block;*/
+    height: 0;
+    width: 0;
+    margin: 3px 5px 0px 0px;
+    float: left;
 }

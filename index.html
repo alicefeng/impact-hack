@@ -16,7 +16,7 @@
     <body>
 
         <div class='container'>
-            <section id="intro">
+            <section id="intro" class="slide">
                 <h1>Paris Climate Agreement</h1>
                 <p>Intro text here</p>
             </section>
@@ -31,21 +31,21 @@
                     <div id="bubbleChart" class="chart"></div>
                 </div>
             </section>
-            <section>
+            <section class="slide">
                 <p>As of September 2018, 180 out of 197 countries have ratified the agreement.</p>
                 <img src="img/ParisAgreementWorldMap.svg">
             </section>
-            <section>
+            <section class="slide">
                 <p>The Paris Agreement is notable not only for the number of countries that have joined but the speed at which they did.</p>
                 <div id="signedLineChart" class="chart"></div>
             </section>
-            <section>
+            <section class="slide">
                 <p>But will the Paris Agreement help mitigate the impacts of climate change?</p>
                 <h2>Greenhouse Gas Emissions per Capita, 1990 - 2014</h2>
                 <div id="historicalEmissionsName" class="tooltip"></div>
                 <div id="historicalEmissionsChart" class="chart"></div>
             </section>
-            <section>
+            <section class="slide">
                 <p>See how emissions are affected by different forecast scenarios</p>
                 <div class="dropdownMenu">
                     <label for="regionSelector">Select region: </label>
@@ -85,6 +85,24 @@
                         <option value="United States">United States</option>
                         <option value="World" selected>World</option>
                     </select>
+                </div>
+                <div id="chartLegend" class="legend">
+                    <div class="legendRow">
+                        <span class="legendSquare" style="border: 5px solid #d2d2d2;"></span>
+                        <div class="legendText">No policy</div>
+                    </div>
+                    <div class="legendRow">
+                        <span class="legendSquare" style="border: 5px solid #696969;"></span>
+                        <div class="legendText">Low policy</div>
+                    </div>
+                    <div class="legendRow">
+                        <span class="legendSquare" style="border: 5px solid #78c26d;"></span>
+                        <div class="legendText">Paris - Continued ambition</div>
+                    </div>
+                    <div class="legendRow">
+                        <span class="legendSquare" style="border: 5px solid #55b748;"></span>
+                        <div class="legendText">Paris - Increased ambition</div>
+                    </div>
                 </div>
                 <div id="forecastChart" class="chart"></div>
             </section>
