@@ -3,8 +3,12 @@
     margin: 0 auto;
 }
 
-#intro {
-    height: 100vh;
+section {
+    min-height: 100vh;
+}
+
+img {
+    max-width: 100%;
 }
 
 .graphic {
