@@ -39,7 +39,7 @@
 
         yScale.domain([d3.min(data, function(d) { return d.emissions_pc; }), d3.max(data, function(d) { return d.emissions_pc; })]);
         var countries = d3.nest()
-            .key(function(d) { return d.country; })
+            .key(function(d) { return d.country_code; })
             .entries(data);
 
         svg.append("g")
@@ -59,16 +59,25 @@
         var countries = svg.selectAll(".country")
             .data(countries)
             .enter().append("g")
-              .attr("class", "country");
+            .attr("class", function(d) { return "emissionsPC country " + d.key; })
+            .on("mouseover", function(d) { highlightLine(d.key); });
 
         countries.append("path")
             .attr("class", "line")
-            .attr("d", function(d) { return line(d.values); })
-            .style("stroke", "steelblue")
-            .attr("fill", "none")
-            .attr("stroke", "grey")
-            .attr("stroke-linejoin", "round")
-            .attr("stroke-linecap", "round")
-            .attr("stroke-width", 1.5);
+            .attr("d", function(d) { return line(d.values); });
+
+        highlightLine("WLD");
     });
+
+    function highlightLine(country_code) {
+        d3.selectAll(".emissionsPC").classed("selected", false);
+        d3.select(".emissionsPC." + country_code).classed("selected", true);
+        d3.select(".emissionsPC." + country_code).moveToFront();
+    }
+
+    d3.selection.prototype.moveToFront = function() {
+        return this.each(function(){
+            this.parentNode.appendChild(this);
+        });
+    };
 })();

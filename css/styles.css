@@ -49,6 +49,7 @@ img {
     transform: translateY(-50%);
 }
 
+/******** Chart styles *******/
 .country circle {
     fill: #1696d2;
     fill-opacity: 1;
@@ -65,4 +66,17 @@ img {
 
 .countryNameLabel.hidden {
     fill-opacity: 0;
+}
+
+
+.emissionsPC path {
+    stroke: #d2d2d2;
+    fill: none;
+    stroke-opacity: 0.5;
+    stroke-width: 2;
+}
+
+.emissionsPC.selected path {
+    stroke: steelblue;
+    stroke-opacity: 1;
 }
