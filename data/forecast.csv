@@ -1,0 +1,1453 @@
+Model,Scenario,Region,indicator,unit,year,emissions
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,355.2712649
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,450.679127
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,105.5855317
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,675.4682791
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,169.7249497
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,432.1757663
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,904.7075945
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,459.5882263
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,278.5317052
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,424.7430041
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,7132.748919
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,20.92340249
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,621.7433394
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,3492.463067
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,86.03269123
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,338.1623951
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,366.9312213
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1346.294597
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,656.0823961
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1327.855399
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,569.1941864
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1435.803025
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,140.6383932
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1605.958177
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,467.6386016
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,207.9369458
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,279.0227707
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,66.07831798
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1158.868976
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,533.8909255
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,289.9819047
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,5488.373891
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,31889.09899
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,355.2712649
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,450.679127
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,105.5855317
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,675.4682791
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,169.7249497
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,432.1757663
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,904.7075945
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,459.5882263
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,278.5317052
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,424.7430041
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,7132.748919
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,20.92340249
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,621.7433394
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,3492.463067
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,86.03269123
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,338.1623951
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,366.9312213
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1346.294597
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,656.0823961
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1327.855399
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,569.1941864
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1435.803025
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,140.6383932
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1605.958177
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,467.6386016
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,207.9369458
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,279.0227707
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,66.07831799
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1158.868976
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,533.8909255
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,289.9819047
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,5488.373893
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,31889.09899
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,355.2712649
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,450.679127
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,105.5855317
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,675.4682791
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,169.7249497
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,432.1757663
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,904.7075945
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,459.5882263
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,278.5317052
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,424.7430041
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,7132.748919
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,20.92340249
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,621.7433394
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,3492.463067
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,86.03269123
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,338.1623951
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,366.9312213
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1346.294597
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,656.0823961
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1327.855399
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,569.1941864
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1435.803025
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,140.6383932
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1605.958177
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,467.6386016
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,207.9369458
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,279.0227707
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,66.07831798
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1158.868976
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,533.8909255
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,289.9819047
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,5488.373891
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,31889.09899
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,355.2712649
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,450.679127
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,105.5855317
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,675.4682791
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,169.7249497
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,432.1757663
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,904.7075945
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,459.5882263
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,278.5317052
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,424.7430041
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,7132.748919
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,20.92340249
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,621.7433394
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,3492.463067
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,86.03269123
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,338.1623951
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,366.9312213
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1346.294597
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,656.0823961
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1327.855399
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,569.1941864
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1435.803025
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,140.6383932
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1605.958177
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,467.6386016
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,207.9369458
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,279.0227707
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,66.07831799
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,1158.868976
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,533.8909255
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,289.9819047
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,5488.373891
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2005,31889.09899
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,223.2126823
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,465.7677276
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,213.506448
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1265.193158
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,557.8009953
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,546.9975281
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1364.813795
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,731.6310378
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,205.3403295
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,502.8223678
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,8519.147919
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,27.40091474
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,584.3922531
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,3168.340613
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,73.18809702
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,318.9844511
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,337.6665316
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1884.219524
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1336.89632
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1170.380675
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,505.8342181
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1939.532088
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,157.4153639
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1297.461501
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,439.3751409
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,207.4319486
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,246.9307031
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,66.61174573
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1654.90252
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,620.7848084
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,286.6502665
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,5674.747072
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,36595.38074
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,223.2126823
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,465.7677276
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,213.506448
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1265.193158
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,557.8009953
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,546.9975281
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1364.813795
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,731.6310378
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,205.3403295
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,502.8223678
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,8519.147919
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,27.40091474
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,584.3922531
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,3168.340613
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,73.18809702
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,318.9844511
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,337.6665316
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1884.219524
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1336.89632
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1170.380675
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,505.8342181
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1939.532088
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,157.4153639
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1297.461501
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,439.3751409
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,207.4319486
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,246.9307031
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,66.61174573
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1654.90252
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,620.7848084
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,286.6502665
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,5674.747072
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,36595.38074
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,223.2126823
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,465.7677276
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,213.506448
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1265.193158
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,557.8009953
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,546.9975281
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1364.813795
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,731.6310378
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,205.3403295
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,502.8223678
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,8519.147919
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,27.40091474
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,584.3922531
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,3168.340613
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,73.18809702
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,318.9844511
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,337.6665316
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1884.219524
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1336.89632
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1170.380675
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,505.8342181
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1939.532088
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,157.4153639
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1297.461501
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,439.3751409
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,207.4319486
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,246.9307031
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,66.61174573
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1654.90252
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,620.7848084
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,286.6502665
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,5674.747072
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,36595.38074
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,223.2126823
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,465.7677276
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,213.506448
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1265.193158
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,557.8009953
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,546.9975281
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1364.813795
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,731.6310378
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,205.3403295
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,502.8223678
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,8519.147919
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,27.40091474
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,584.3922531
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,3168.340613
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,73.18809702
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,318.9844511
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,337.6665316
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1884.219524
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1336.89632
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1170.380675
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,505.8342181
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1939.532088
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,157.4153639
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1297.461501
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,439.3751409
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,207.4319486
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,246.9307031
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,66.61174573
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,1654.90252
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,620.7848084
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,286.6502665
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,5674.747072
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2010,36595.38074
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,8.801821901
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,597.0830176
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,248.8333379
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,278.6306676
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,261.1850951
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,233.6736596
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,819.3486666
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,381.6466204
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,194.6347149
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,606.0487972
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,10837.10146
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,140.7453477
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1020.24182
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,3101.759358
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,74.68349381
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,364.9399678
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,665.8674851
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2940.296278
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,934.1796325
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1274.14806
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,502.7389301
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2195.685925
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,306.424008
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1352.599083
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,386.5726457
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,284.6686319
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,297.8334244
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,230.0817059
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1763.774483
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,643.4210939
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,350.2136367
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,5456.582757
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,38754.44563
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,8.801821901
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,597.0830176
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,248.8333379
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,278.6306676
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,261.1850951
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,233.6736596
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,819.3486666
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,381.6466204
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,194.6347149
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,606.0487972
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,10837.10146
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,140.7453477
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1020.24182
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,3101.759358
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,74.68349381
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,364.9399678
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,665.8674851
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2940.296278
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,934.1796325
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1274.14806
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,502.7389301
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2195.685925
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,306.424008
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1352.599083
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,386.5726457
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,284.6686319
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,297.8334244
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,230.0817059
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1763.774483
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,643.4210941
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,350.2136367
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,5456.582757
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,38754.44563
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,46.87997505
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,595.0361357
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,319.3556217
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,435.691652
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,290.8734881
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,233.2270646
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1088.036896
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,404.6497315
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,220.271799
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,614.85452
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,11068.87116
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,165.141439
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,814.8523862
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2460.873265
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,67.45168867
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,369.3855416
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,693.5771591
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2723.999296
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1022.181388
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1157.889493
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,388.227961
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2203.938645
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,309.642498
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1357.793762
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,388.8778765
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,300.3997521
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,353.599337
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,244.9941027
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1931.993914
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,483.1406847
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,350.7728999
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,4273.840899
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,37380.32204
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,46.87997505
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,595.0361357
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,319.3556217
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,435.691652
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,290.8734881
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,233.2270646
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1088.036896
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,404.6497315
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,220.271799
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,614.85452
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,11068.87116
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,165.141439
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,814.8523862
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2460.873265
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,67.45168867
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,369.3855416
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,693.5771591
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2723.999296
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1022.181388
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1157.889493
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,388.227961
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,2203.938645
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,309.642498
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1357.793762
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,388.8778765
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,300.3997521
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,353.599337
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,244.9941027
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,1931.993914
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,483.1406847
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,350.7728999
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,4273.840899
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2020,37380.32204
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,94.60307767
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,702.9175432
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,297.4129657
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,425.9767228
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,326.5045782
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,380.8909964
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1128.882199
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,492.4084984
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,275.1748866
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,733.3414481
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,12959.34333
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,193.3124901
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1040.288891
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,3134.069355
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,85.22838479
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,391.6038612
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,789.0149321
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,4809.085637
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1436.07648
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1272.249871
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,588.7392738
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2627.904701
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,486.0219457
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1518.02503
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,398.8061227
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,330.3684112
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,454.6157277
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,453.8471137
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2384.146176
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,655.0692703
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,406.2898346
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,6220.389586
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,47492.60934
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,94.60307767
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,702.9175432
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,297.4129657
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,425.9767228
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,326.5045782
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,380.8909964
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1128.882199
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,492.4084984
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,275.1748866
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,733.3414481
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,12959.34333
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,193.3124901
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1040.288891
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,3134.069355
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,85.22838479
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,391.6038612
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,789.0149321
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,4809.085637
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1436.07648
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1272.249871
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,588.7392738
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2627.904701
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,486.0219457
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1518.02503
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,398.8061227
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,330.3684112
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,454.6157277
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,453.8471137
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2384.146176
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,655.0692703
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,406.2898346
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,6220.389586
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,47492.60934
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,98.54750348
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,667.48847
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,273.9039471
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,403.6362495
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,229.1512693
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,193.1963082
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,357.58972
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,303.3680721
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,292.2631524
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,623.1509472
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,11977.63307
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,139.2989755
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,627.1926806
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1806.712011
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,84.94219229
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,339.0217938
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,671.926476
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,4043.074615
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1483.341603
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1023.01275
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,553.9396029
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2519.908514
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,496.1162344
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1442.616066
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,395.7693774
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,348.3044802
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,387.603036
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,424.1025929
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2444.134052
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,492.910912
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,409.5357524
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2916.466428
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,38469.85885
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,98.54750349
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,667.48847
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,273.9039471
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,403.6362495
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,229.1512693
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,193.1963081
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,357.58972
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,303.3680721
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,292.2631524
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,623.1509472
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,11977.63307
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,139.2989755
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,627.1926806
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1806.712011
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,84.94219229
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,339.0217938
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,671.926476
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,4043.074615
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1483.341603
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1023.01275
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,553.9396029
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2519.908514
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,496.1162344
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,1442.616066
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,395.7693774
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,348.3044802
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,387.603036
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,424.1025929
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2444.134052
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,492.9109121
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,409.5357524
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,2916.466428
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2030,38469.85885
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,245.0230055
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,688.2595014
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,271.9693997
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,442.1168741
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,349.0298041
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,434.7313831
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,930.3603011
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,464.2505219
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,359.6998934
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,827.5720595
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,14362.39864
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,261.1547835
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1009.829218
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,2878.795179
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,75.91404619
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,417.9759863
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,803.5487519
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,6428.398676
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1896.142708
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1152.034088
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,595.8556191
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,2888.209835
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,696.1621478
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1607.818094
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,348.9240299
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,371.5723154
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,532.8752781
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,652.8225754
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,3087.871944
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,624.7748958
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,415.9105519
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,6398.756486
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,52520.7586
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,294.8584411
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,786.1928177
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,397.959233
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,795.9607021
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,387.2358965
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,501.6478806
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1443.863821
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,558.2306529
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,413.7247219
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,844.7993378
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,14643.50354
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,294.5452316
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1116.623155
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,3276.733994
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,98.40840331
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,426.8052434
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,867.9698533
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,6758.146157
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1974.421192
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1325.954687
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,694.3139665
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,3084.51972
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,740.06863
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1667.730927
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,377.6667529
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,388.1462581
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,618.2897234
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,726.7841733
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,3245.813352
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,681.7745078
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,450.4202211
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,7205.038414
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,57088.15161
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,222.0684109
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,665.1402945
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,286.3844699
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,454.0841902
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,203.918548
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,161.9460728
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,961.8708895
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,353.652168
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,338.7872935
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,598.2664165
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,11562.38957
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,149.6905894
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,453.9144128
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1329.102382
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,73.24930058
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,325.1604186
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,609.9999928
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,5379.299482
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1883.325061
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,877.6013934
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,491.465984
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,2763.866412
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,720.0633331
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1524.857336
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,340.1910374
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,357.1358614
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,423.0706813
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,611.087891
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,2904.240204
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,467.406387
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,419.2334092
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1873.052839
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,39785.52273
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,194.6544989
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,476.3842959
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,337.5710585
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,391.7608237
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,213.5663652
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,189.9259216
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1100.781921
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,315.4393582
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,269.9344334
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,571.357941
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,10737.26957
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,208.4189771
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,475.4013121
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1377.941094
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,51.69987603
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,266.5906758
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,517.6580828
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,3954.835932
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,1447.071779
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,692.4252472
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,376.4428032
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,2023.282619
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,531.6265038
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,909.3661716
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,235.5970666
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,317.3410931
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,416.1445283
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,439.3893275
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,2280.222325
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,347.8113287
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,307.2069805
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,2018.373247
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2040,33993.49315
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,299.4501034
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,663.6375666
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,297.1944804
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,581.9307505
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,341.5276051
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,446.0926651
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,980.9543898
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,460.3516082
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,395.2779887
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,893.3483094
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,15112.48426
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,255.8599083
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,979.0372536
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,2649.437956
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,69.19265363
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,449.4252167
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,782.2391374
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,8141.169514
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,2252.488502
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1034.005244
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,622.5075728
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,3074.591821
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,973.1710034
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1704.127755
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,298.6517123
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,376.5149404
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,552.6721357
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,879.8911707
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,3515.314483
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,594.9787101
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,401.8984366
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,6430.105971
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,56509.53082
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,437.7909102
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,871.472455
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,420.3890997
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,938.1050016
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,426.9522512
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,574.4593544
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1474.974925
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,594.6924419
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,507.7473849
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,933.4613696
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,15682.90428
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,329.9798455
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1158.251034
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,3373.523076
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,110.7073598
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,468.1234236
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,920.2130536
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,8676.8618
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,2411.750608
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1367.038665
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,823.8041172
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,3552.920097
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1057.696919
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1821.155027
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,352.1751146
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,430.9646312
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,724.7237615
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1042.387929
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,3900.914872
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,701.8063855
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,480.3248544
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,7998.722797
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,64566.99484
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,277.3294356
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,641.6394924
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,290.6527327
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,605.0159955
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,157.0088978
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,130.8473795
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,744.2593491
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,306.4135584
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,383.6902465
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,550.7066305
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,10363.84108
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,120.7124272
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,376.9279929
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,922.2511453
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,67.185523130000007
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,320.7813365
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,539.4482957
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,6753.127775
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,2259.159074
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,758.173784
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,521.3633001
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,2946.694165
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1040.018598
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1579.662522
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,291.4292229
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,377.0489001
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,418.6810458
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,826.2738897
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,3362.531453
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,444.7659458
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,405.1092208
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1230.253595
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,40013.00401
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,179.7502041
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,338.0969603
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,254.6495123
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,557.4678317
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,150.5055381
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,146.229819
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,733.1229484
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,205.7212469
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,229.0238316
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,488.2852041
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,8732.471049
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,132.6857931
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,313.7729318
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,844.604381
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,32.03924449
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,216.3016261
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,352.4651407
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,3656.468339
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1284.238493
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,445.3113451
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,278.7985557
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1580.215182
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,556.6409857
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,635.4313919
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,134.318336
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,279.2968087
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,324.1576844
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,439.3512432
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1906.958722
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,240.8316001
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,217.5288251
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,1236.619221
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2050,27123.36
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,282.9419403
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,653.4145284
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,220.0791555
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,533.7444438
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,339.3970597
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,424.0998503
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,973.0686883
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,435.6674365
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,409.7964294
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,934.6671799
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,15737.01598
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,225.7124374
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,941.6786567
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,2455.775038
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,65.31296062
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,485.6346315
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,753.4443014
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,9778.212512
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,2685.794563
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,933.0843751
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,666.1032731
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,3143.6699
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1298.73979
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1824.61312
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,273.2323286
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,374.778183
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,558.9525461
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1147.757722
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,3992.827757
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,566.993855
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,374.3957013
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,6348.946009
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,59839.55236
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,542.6124777
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,960.1785017
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,431.2800224
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1099.87438
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,461.9726223
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,606.9572488
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1506.412609
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,622.2849598
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,575.6536244
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,990.2960912
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,16507.78247
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,344.2294519
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1184.602262
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,3410.586123
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,123.4405664
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,509.6948761
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,963.3847884
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,10327.25504
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,2864.213591
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1366.592928
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,989.41657970000006
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,3945.262252
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1397.349383
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1971.282875
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,356.1634219
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,455.9765777
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,809.6259533
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1383.50989
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,4595.837744
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,711.4781676
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,499.8614342
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,8695.949037
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,71211.01795
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,248.3429716
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,634.2164896
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,189.0117262
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,477.5910667
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,111.1845976
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,79.65507615
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,513.5839807
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,245.1668463
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,391.9878066
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,466.9093922
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,8752.312012
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,44.07942678
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,295.1284828
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,612.7331101
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,63.28671744
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,311.5718509
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,466.2655843
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,8035.166128
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,2597.533694
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,654.1107049
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,556.5971843
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,3016.391128
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1398.408184
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1653.017817
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,268.4599718
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,357.8459333
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,363.8231266
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1077.208052
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,3808.931138
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,422.4477212
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,377.3869341
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,759.8815322
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,39250.23639
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,85.37323189
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,246.6728875
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,91.19489856
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,228.879311
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,99.55483372
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,90.47664818
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,376.6641546
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,122.7937004
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,156.5124126
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,383.2366546
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,6747.60375
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,48.11230809
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,208.0192674
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,527.7322759
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,21.35373657
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,176.2198873
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,246.7514067
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,3202.462853
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1089.445729
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,291.1506378
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,215.3161127
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1185.629723
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,564.0644062
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,479.5463558
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,84.67818896
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,187.5781559
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,203.6270988
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,416.4950247
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,1532.077194
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,167.0606178
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,148.4951209
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,755.1057994
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2060,20379.88438
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,368.2943113
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,647.3060634
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,247.9486075
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,647.3895783
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,354.4243992
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,399.0737506
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,884.0859698
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,418.6598063
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,481.912119
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,999.9640303
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,16371.83708
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,250.6942027
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,921.1111842
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,2317.031769
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,61.31896643
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,528.418639
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,707.5876023
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,11132.41408
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,2930.775208
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,838.0014851
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,746.8086272
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,3178.87914
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1692.899048
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1946.4545660000001
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,259.3183477
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,405.612473
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,618.8700975
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1433.310995
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,4506.560123
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,533.8606947
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,364.1846099
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,6324.789892
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,63519.79747
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,792.5802065
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1050.154821
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,600.5448928
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1587.210389
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,518.7283807
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,629.31535
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1655.675582
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,647.077546
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,699.0021713
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1051.640517
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,17117.96406
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,416.1540163
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1202.092196
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,3405.104514
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,134.8298859
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,551.8941017
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,978.8135491
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,11664.71733
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,3173.242145
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1346.312457
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1214.394879
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,4282.788683
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1763.792887
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,2102.304131
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,368.8128584
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,514.8251806
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,947.8389398
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1725.802514
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,5328.035962
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,702.9994954
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,519.463066
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,9390.863742
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,78084.97645
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,322.470774
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,629.7436072
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,199.7955564
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,559.7047706
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,87.09459612
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,57.56851562
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,350.728692
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,213.6013051
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,460.1845269
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,392.5130896
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,7317.951418
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,29.31401965
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,228.2184115
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,483.242219
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,59.24719785
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,293.3489126
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,393.9420087
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,9061.646556
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,2787.695907
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,564.2252218
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,624.9602444
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,3052.510649
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1764.970814
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1706.413388
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,259.3493111
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,380.9917515
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,365.0015048
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1346.340196
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,4296.111887
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,397.4052329
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,367.0944689
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,533.5694197
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,39586.95617
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,79.55037299
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,179.7124545
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,59.08723216
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,145.7153536
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,72.35976384
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,69.06458859
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,180.9049256
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,83.23731228
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,134.108559
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,298.1427458
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,5163.576713
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,27.08401805
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,141.7391443
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,390.7764694
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,14.20423268
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,140.1753758
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,169.8539636
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,2658.854052
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,855.0494295
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,191.6483138
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,177.6961217
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,878.96407610000006
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,540.4501234
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,381.6958164
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,61.62079377
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,142.4377465
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,156.2470737
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,384.4223848
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,1250.1074840000001
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,115.5287045
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,105.8469146
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,521.6180537
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2070,15771.48031
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,456.3525608
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,628.0137921
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,291.9031323
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,754.1439728
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,376.1709846
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,361.8485065
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,882.662874
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,395.4240853
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,576.823877
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1064.945322
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,16444.3578
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,275.8368075
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,833.4967151
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2168.416911
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,56.58451682
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,563.7759355
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,650.8100277
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,12119.59071
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,3004.937906
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,738.7402936
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,851.8993916
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,3176.26873
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2128.911505
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2096.186355
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,246.3969457
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,442.2436951
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,688.190249
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1709.13885
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,4901.052981
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,492.953847
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,341.7088488
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,6200.039024
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,65919.82716
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1079.861657
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1131.255263
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,819.5889299
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2199.48888
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,588.6227127
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,635.6407056
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1897.725389
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,667.5822755
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,856.0476426
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1104.252595
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,17130.64427
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,517.1060685
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1174.190796
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,3387.80319
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,147.9037921
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,580.8659516
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,929.0707886
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,12423.38137
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,3325.706116
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1258.718624
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1506.581071
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,4614.00737
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2130.858688
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2217.290909
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,392.5309561
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,600.6309828
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1105.243741
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2048.172469
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,5950.615388
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,680.305441
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,499.3057173
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,9849.325198
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,83450.32494
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,398.7088667
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,609.9542299
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,240.521649
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,657.8808497
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,69.31325983
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,37.53188286
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,346.1232486
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,184.5590236
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,550.2105589
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,326.1100106
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,6132.546378
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,14.59293284
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,179.4429143
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,373.5577706
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,54.74217252
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,270.0957566
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,326.3881515
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,9770.45539
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2836.672719
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,479.2444185
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,712.5913327
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,3049.682319
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2131.447221
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1727.810971
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,246.5037352
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,408.8359703
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,373.6269743
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,1604.974852
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,4678.776369
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,366.910904
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,344.4394072
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,355.4064647
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,39859.6587
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,70.34480853
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,126.7965734
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,48.55663393
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,102.6782217
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,54.80756041
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,52.02687564
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,170.8590069
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,60.36406691
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,118.3308566
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,230.8425219
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,3970.689317
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,16.85838755
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,113.9020613
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,298.2359461
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,9.406570994
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,109.5532513
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,117.3411776
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,2111.125838
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,632.4979715
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,125.7072479
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,149.5748428
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,641.726964
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,485.9964768
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,304.7754673
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,46.69604451
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,110.9878805
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,128.4989078
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,335.4694981
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,989.6819237
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,78.67987154
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,72.77604462
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,360.2634448
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2080,12246.05226
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,543.3538633
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,595.9338432
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,338.8326792
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,865.9123129
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,396.4483602
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,326.984842
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,907.4692246
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,374.4727899
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,675.4421664
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1163.733389
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,16415.00332
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,302.0764665
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,773.0032857
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2051.626711
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,51.94450017
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,617.1554009
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,595.9450069
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,12876.73779
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2971.673169
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,654.3177472
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,953.2099137
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,3121.623725
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2459.085932
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2238.899008
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,229.257989
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,479.6731539
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,758.8610609
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1958.334673
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,5174.997028
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,453.9860727
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,307.5954872
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,6093.417257
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,67727.00816
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1378.596007
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1206.040719
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1050.488723
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2843.520069
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,659.0816124
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,640.4315247
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2126.550906
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,689.9991613
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1017.114147
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1177.972101
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,16977.3643
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,618.9771776
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1150.308193
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,3364.23824
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,165.3562339
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,619.4213951
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,906.2798672
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,12873.26286
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,3383.94594
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1223.236081
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1807.226523
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,4911.90676
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2458.963106
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2346.956764
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,392.1157937
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,691.0499837
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1260.023081
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2338.77076
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,6438.250874
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,658.2914731
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,485.9460285
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,10330.47886
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,88192.16527
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,474.3524541
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,578.7535137
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,273.7087358
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,749.9976789
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,54.31671842
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,23.56825563
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,262.1344269
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,154.783468
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,645.1066983
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,271.0893586
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,4989.397047
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,7.908259625
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,156.4828426
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,270.1254695
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,50.22626895
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,247.4749321
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,268.7371031
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,10292.81915
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2791.04561
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,408.4781578
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,797.5273349
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2997.159315
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2459.477389
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1751.451652
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,229.0041344
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,437.6612411
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,377.9134162
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1838.899281
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,4943.535301
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,337.9179423
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,310.0529918
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,256.0237228
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,39707.12988
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,61.50603246
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,87.53511457
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,41.18994344
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,75.82311638
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,40.64045384
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,36.07624809
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,103.3980127
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,40.87131725
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,104.5045839
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,177.8590449
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,2963.96652
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,11.62665841
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,95.85040721
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,216.8368784
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,6.202409102
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,86.11966399
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,81.16381813
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,1633.213478
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,460.7194305
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,82.57264923
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,124.2222185
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,460.2968953
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,412.210224
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,244.1550859
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,36.09494126
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,87.26520401
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,104.8904644
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,281.9719039
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,764.5335209
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,53.35244757
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,48.00516517
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,257.821693
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2090,9282.495545
+GCAM,Low policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,622.0944985
+GCAM,Low policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,559.6485214
+GCAM,Low policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,415.4685803
+GCAM,Low policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,994.6415154
+GCAM,Low policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,407.0742914
+GCAM,Low policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,304.0410837
+GCAM,Low policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,954.5546385
+GCAM,Low policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,370.7381252
+GCAM,Low policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,756.8511931
+GCAM,Low policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1357.109436
+GCAM,Low policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,16193.30211
+GCAM,Low policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,338.7878914
+GCAM,Low policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,738.2410688
+GCAM,Low policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1950.469746
+GCAM,Low policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,46.77956282
+GCAM,Low policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,726.4764968
+GCAM,Low policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,541.3444549
+GCAM,Low policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,13350.93531
+GCAM,Low policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2890.583538
+GCAM,Low policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,587.9290667
+GCAM,Low policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1023.095099
+GCAM,Low policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,3036.10863
+GCAM,Low policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2790.52984
+GCAM,Low policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2307.88936
+GCAM,Low policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,208.1006652
+GCAM,Low policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,510.6767999
+GCAM,Low policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,815.4249974
+GCAM,Low policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2187.103039
+GCAM,Low policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,5287.779129
+GCAM,Low policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,424.9021918
+GCAM,Low policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,270.162908
+GCAM,Low policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,6010.829344
+GCAM,Low policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,68979.67313
+GCAM,No policy,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1700.115402
+GCAM,No policy,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1348.191481
+GCAM,No policy,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1311.336622
+GCAM,No policy,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,3574.201195
+GCAM,No policy,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,785.2860319
+GCAM,No policy,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,704.8526641
+GCAM,No policy,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2418.623641
+GCAM,No policy,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,790.9363385
+GCAM,No policy,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1207.430224
+GCAM,No policy,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1348.349554
+GCAM,No policy,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,16484.98756
+GCAM,No policy,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,747.9648543
+GCAM,No policy,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1196.502078
+GCAM,No policy,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,3471.996249
+GCAM,No policy,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,242.4033283
+GCAM,No policy,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,728.2481362
+GCAM,No policy,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,920.5783611
+GCAM,No policy,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,13352.59395
+GCAM,No policy,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,3490.175131
+GCAM,No policy,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1240.687722
+GCAM,No policy,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2176.487408
+GCAM,No policy,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,5363.467242
+GCAM,No policy,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2790.29401
+GCAM,No policy,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2584.048691
+GCAM,No policy,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,383.0841112
+GCAM,No policy,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,844.170086
+GCAM,No policy,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1460.324708
+GCAM,No policy,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2637.879904
+GCAM,No policy,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,6915.706023
+GCAM,No policy,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,646.4635354
+GCAM,No policy,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,479.9592665
+GCAM,No policy,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,11025.94676
+GCAM,No policy,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,94373.29226
+GCAM,Paris - Continued ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,544.8268288
+GCAM,Paris - Continued ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,544.1940135
+GCAM,Paris - Continued ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,326.4972517
+GCAM,Paris - Continued ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,859.652972
+GCAM,Paris - Continued ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,44.84519135
+GCAM,Paris - Continued ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,25.40288461
+GCAM,Paris - Continued ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,290.6599066
+GCAM,Paris - Continued ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,137.248626
+GCAM,Paris - Continued ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,720.3964986
+GCAM,Paris - Continued ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,229.0829999
+GCAM,Paris - Continued ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,3741.615594
+GCAM,Paris - Continued ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,15.63814666
+GCAM,Paris - Continued ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,157.6791599
+GCAM,Paris - Continued ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,199.2992309
+GCAM,Paris - Continued ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,45.30594526
+GCAM,Paris - Continued ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,226.3411149
+GCAM,Paris - Continued ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,222.3541045
+GCAM,Paris - Continued ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,10781.34578
+GCAM,Paris - Continued ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2694.964297
+GCAM,Paris - Continued ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,353.2829737
+GCAM,Paris - Continued ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,854.9059416
+GCAM,Paris - Continued ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2916.72211
+GCAM,Paris - Continued ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2791.208421
+GCAM,Paris - Continued ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1758.269615
+GCAM,Paris - Continued ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,207.9806822
+GCAM,Paris - Continued ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,465.7723734
+GCAM,Paris - Continued ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,386.3503201
+GCAM,Paris - Continued ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2053.972094
+GCAM,Paris - Continued ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,5046.133136
+GCAM,Paris - Continued ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,316.4548436
+GCAM,Paris - Continued ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,272.3201433
+GCAM,Paris - Continued ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,202.7005328
+GCAM,Paris - Continued ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,39433.42373
+GCAM,Paris - Increased ambition,Africa_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,57.9503704
+GCAM,Paris - Increased ambition,Africa_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,60.75310002
+GCAM,Paris - Increased ambition,Africa_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,54.07575742
+GCAM,Paris - Increased ambition,Africa_Western,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,166.6090513
+GCAM,Paris - Increased ambition,Argentina,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,33.59349588
+GCAM,Paris - Increased ambition,Australia/New Zealand,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,41.70638718
+GCAM,Paris - Increased ambition,Brazil,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,150.1811699
+GCAM,Paris - Increased ambition,Canada,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,73.02794675
+GCAM,Paris - Increased ambition,Central America and Caribbean,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,95.3263794
+GCAM,Paris - Increased ambition,Central Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,140.5788279
+GCAM,Paris - Increased ambition,China,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,2039.521007
+GCAM,Paris - Increased ambition,Colombia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,18.49913856
+GCAM,Paris - Increased ambition,EU-12,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,108.7127812
+GCAM,Paris - Increased ambition,EU-15,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,155.6011795
+GCAM,Paris - Increased ambition,European Free Trade Association,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,6.273587891
+GCAM,Paris - Increased ambition,Europe_Eastern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,69.23192262
+GCAM,Paris - Increased ambition,Europe_Non_EU,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,57.05132475
+GCAM,Paris - Increased ambition,India,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,1253.444276
+GCAM,Paris - Increased ambition,Indonesia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,359.6033959
+GCAM,Paris - Increased ambition,Japan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,54.04885593
+GCAM,Paris - Increased ambition,Mexico,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,103.9025332
+GCAM,Paris - Increased ambition,Middle East,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,312.1528804
+GCAM,Paris - Increased ambition,Pakistan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,320.6503384
+GCAM,Paris - Increased ambition,Russia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,318.7981863
+GCAM,Paris - Increased ambition,South Africa,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,24.89552437
+GCAM,Paris - Increased ambition,South America_Northern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,88.17467936
+GCAM,Paris - Increased ambition,South America_Southern,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,101.5650699
+GCAM,Paris - Increased ambition,South Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,231.7900878
+GCAM,Paris - Increased ambition,Southeast Asia,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,588.3725541
+GCAM,Paris - Increased ambition,South Korea,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,36.55102025
+GCAM,Paris - Increased ambition,Taiwan,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,30.89635476
+GCAM,Paris - Increased ambition,United States,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,226.6834887
+GCAM,Paris - Increased ambition,World,Emissions|GHG Emissions by gas with LULUCF|CO2,Mt CO2e/yr,2100,7380.222673
