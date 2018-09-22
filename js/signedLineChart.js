@@ -5,7 +5,7 @@
     var margin = {left: 40, top: 40, right: 5, bottom: 50};
 
     var xScale = d3.scaleLinear()
-        .domain([0, 1095])
+        .domain([0, 37])
         .rangeRound([0, width]);
 
     var yScale = d3.scaleLinear()
@@ -14,7 +14,7 @@
 
     var line = d3.line()
         .curve(d3.curveStepAfter)
-        .x(function(d) { return xScale(d.days_since_signed); })
+        .x(function(d) { return xScale(d.months_since_signed); })
         .y(function(d) { return yScale(d.total_countries); });
 
     var signedData;
@@ -30,7 +30,8 @@
         return {
             treaty: d.treaty,
             days_since_signed: +d.days_since_signed,
-            total_countries: +d.total_countries
+            total_countries: +d.total_countries,
+            months_since_signed: +d.months_since_signed
         };
     }, function(error, data) {
         if (error) throw error;
@@ -44,12 +45,12 @@
         svg.append("g")
             .attr("class", "axis axis--x")
             .attr("transform", "translate(0," + height + ")")
-            .call(d3.axisBottom(xScale))
+            .call(d3.axisBottom(xScale).tickValues([0, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36]))
         .append("text")
             .attr("class", "axisLabel")
             .attr("transform", "translate(" + width/2 + ", 40)")
             .attr("text-anchor", "middle")
-            .text("Number of days since agreement signed");
+            .text("Number of months since agreement signed");
 
         svg.append("g")
             .attr("class", "axis axis--y")
@@ -81,9 +82,9 @@
             .attr("stroke-width", 1.5);
 
         var label_dat = [
-            {treaty: "Paris", days_since_signed: 1040, total_countries: 180},
-            {treaty: "Kyoto", days_since_signed: 1070, total_countries: 30},
-            {treaty: "Doha", days_since_signed: 1070, total_countries: 50}
+            {treaty: "Paris", months_since_signed: 35, total_countries: 180},
+            {treaty: "Kyoto", months_since_signed: 36, total_countries: 30},
+            {treaty: "Doha", months_since_signed: 36, total_countries: 50}
         ];
 
         svg.selectAll("lineLabels")
@@ -91,7 +92,7 @@
             .enter()
             .append("text")
             .attr("class", "lineLabel")
-            .attr("x", function(d) { return xScale(d.days_since_signed) + 10; })
+            .attr("x", function(d) { return xScale(d.months_since_signed) + 10; })
             .attr("y", function(d) { return d.treaty === "Paris" ? yScale(d.total_countries) : yScale(d.total_countries) + 15; })
             .attr("dy", "0.35em")
             .text(function(d) { return d.treaty; });

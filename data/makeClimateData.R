@@ -38,7 +38,8 @@ doha_totals <- kyoto %>%
   arrange(days_since_signed) %>%
   mutate(total_countries = cumsum(n))
 
-data <- bind_rows(paris_totals, kyoto_totals, doha_totals)
+data <- bind_rows(paris_totals, kyoto_totals, doha_totals) %>%
+  mutate(months_since_signed = days_since_signed/30)
 
 ggplot(data, aes(x=days_since_signed, y=total_countries, color = treaty)) +
   geom_line()
