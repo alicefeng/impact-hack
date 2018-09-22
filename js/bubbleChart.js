@@ -1,3 +1,4 @@
+(function() {
 var width = 600,
     height = 600;
 
@@ -65,6 +66,7 @@ function createBubbleChart(root) {
     .text(function(d) { return d.r > 40 ? d.data.country : ""; });
 
 }
+})();
 
 function updateGraph(step) {
     console.log("triggered!", step);
