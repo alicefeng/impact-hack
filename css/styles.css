@@ -1,5 +1,6 @@
 .container {
     width: 800px;
+    margin: 0 auto;
 }
 
 #intro {
@@ -34,17 +35,14 @@
 }
 
 .graphic__prose .trigger {
-    height: 500px;
+    height: 80vh;
+    padding-top: 10vh;
 }
 
-article {
-  position: relative;
-}
-
-figure.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
+#bubbleChart {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .country circle {
