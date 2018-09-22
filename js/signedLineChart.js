@@ -49,12 +49,11 @@
             .attr("class", "axisLabel")
             .attr("transform", "translate(" + width/2 + ", 40)")
             .attr("text-anchor", "middle")
-            .style("fill", "black")
-            .text("Number of days since treaty signed");
+            .text("Number of days since agreement signed");
 
         svg.append("g")
             .attr("class", "axis axis--y")
-            .call(d3.axisLeft(yScale))
+            .call(d3.axisLeft(yScale).tickValues([0, 25, 50, 75, 100, 125, 150, 175, 197]))
         .append("text")
             .attr("fill", "#000")
             .attr("transform", "rotate(-90)")
@@ -83,8 +82,8 @@
 
         var label_dat = [
             {treaty: "Paris", days_since_signed: 989, total_countries: 180},
-            {treaty: "Kyoto", days_since_signed: 1050, total_countries: 30},
-            {treaty: "Doha", days_since_signed: 1050, total_countries: 50}
+            {treaty: "Kyoto", days_since_signed: 1020, total_countries: 30},
+            {treaty: "Doha", days_since_signed: 1020, total_countries: 50}
         ];
 
         svg.selectAll("lineLabels")
@@ -92,9 +91,8 @@
             .enter()
             .append("text")
             .attr("x", function(d) { return xScale(d.days_since_signed) + 10; })
-            .attr("y", function(d) { return d.treaty === "Paris" ? yScale(d.total_countries) : yScale(d.total_countries) + 10; })
+            .attr("y", function(d) { return d.treaty === "Paris" ? yScale(d.total_countries) : yScale(d.total_countries) + 15; })
             .attr("dy", "0.35em")
-            .style("font", "10px sans-serif")
             .text(function(d) { return d.treaty; });
         });
 

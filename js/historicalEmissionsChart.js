@@ -2,7 +2,7 @@
     var width = 800,
         height = 500;
 
-    var margin = {left: 40, top: 40, right: 40, bottom: 40};
+    var margin = {left: 55, top: 40, right: 40, bottom: 40};
 
     var xScale = d3.scaleLinear()
         .domain([1990, 2014])

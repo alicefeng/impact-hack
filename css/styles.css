@@ -1,3 +1,15 @@
+body {
+    font-family: 'Lato';
+    background-color: #1a1717;
+    color: #d5d5d4;
+}
+
+text {
+    font-family: 'Lato';
+    fill: #d5d5d4;
+    font-size: 12px;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -50,8 +62,13 @@ img {
 }
 
 /******** Chart styles *******/
+.axis path,
+.axis line {
+    stroke: #d5d5d4;
+}
+
 .country circle {
-    fill: #1696d2;
+    fill: #adabac;
     transition-property: fill-opacity;
     transition-duration: 2s;
     fill-opacity: 1;
@@ -64,6 +81,7 @@ img {
 }
 
 .countryNameLabel {
+    fill: #1a1717;
     text-anchor: middle;
     transition-property: fill-opacity;
     transition-duration: 2s;
@@ -76,6 +94,9 @@ img {
     fill-opacity: 0;
 }
 
+.line {
+    stroke-width: 2.5;
+}
 
 .emissionsPC path {
     stroke: #d2d2d2;

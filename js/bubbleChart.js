@@ -61,7 +61,6 @@
 })();
 
 function updateGraph(step) {
-    console.log("triggered!", step);
     if(step === 0) {
         d3.selectAll(".country.group1 circle").classed("hidden", false);
         d3.selectAll(".country.group1 .countryNameLabel.hidden").classed("hidden", false);
