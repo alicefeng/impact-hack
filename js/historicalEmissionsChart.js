@@ -43,10 +43,12 @@
             .entries(data);
 
         svg.append("g")
+            .attr("class", "axis axis--x")
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(xScale).tickFormat(d3.format("d")));
 
         svg.append("g")
+            .attr("class", "axis axis--y")
             .call(d3.axisLeft(yScale))
         .append("text")
             .attr("fill", "#000")
