@@ -1,8 +1,8 @@
 (function() {
-    var width = 800,
-        height = 500;
+    var width = 700,
+        height = 400;
 
-    var margin = {left: 55, top: 40, right: 40, bottom: 40};
+    var margin = {left: 55, top: 15, right: 40, bottom: 40};
 
     var xScale = d3.scaleLinear()
         .domain([1990, 2014])
@@ -20,8 +20,8 @@
 
     var svg = d3.select("#historicalEmissionsChart")
         .append("svg")
-        .attr("width", width + margin.top + margin.bottom)
-        .attr("height", height + margin.left + margin.right)
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 

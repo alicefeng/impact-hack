@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link rel="shortcut icon" href="favicon.ico" type="img/x-icon">
-        <title>Paris Climate Agreement</title>
+        <title>Paris Agreement</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic,900" rel="stylesheet" type="text/css">
         <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
@@ -17,36 +17,43 @@
 
         <div class='container'>
             <section id="intro" class="slide">
-                <h1>Paris Climate Agreement</h1>
-                <p>Intro text here</p>
+                <h1>The Paris Agreement</h1>
+                <h3>A diplomatic achievement - but will it save the world?</h3>
+                <p>On December 12, 2015, 196 countries at the 21st Conference of the Parties negotiated what eventually became the Paris Agreement, a landmark agreement to combat climate change and to accelerate and intensify the actions and investments needed for a sustainable low carbon future.</p>
             </section>
             <section id="signedCountries" class='graphic'>
                 <div class='graphic__prose'>
-                    <p class='trigger' data-step='0'>Step 1 in the graphic. It triggers in the middle of the viewport. For this graphic, it is the same as the initial state so the reader doesn&rsquo;t miss anything.</p>
-                    <p class='trigger' data-step='1'>Step 2 arrives. The graphic should be locking into a fixed position right about now. We could have a whole bunch of these &ldquo;fixed&rdquo; steps.</p>
-                    <p class='trigger' data-step='2'>Step 3 concludes our brief tour. The graphic should now go back to its original in-flow position, elegantly snapping back into place.</p>
-                    <p class='trigger' data-step='3'>Step 3 concludes our brief tour. The graphic should now go back to its original in-flow position, elegantly snapping back into place.</p>
+                    <p class='trigger' data-step='0'>The agreement opened for signature on April 22, 2016. Within six months, 17 countries ratified the agreement.</p>
+                    <p class='trigger' data-step='1'>By October 5, 2016, over 55 countries in total accounting for 55% of total greenhouse gas emissions ratified the agreement as well, enough for the Paris Agreement to enter into force. <br> <br>
+                    Within a year after being open for signature, a total of 117 countries ratified the agreement.</p>
+                    <p class='trigger' data-step='2'>Two years later, an additional 53 countries joined.</p>
+                    <p class='trigger' data-step='3'>As of September 22, 2018, a total of 180 out of 197 countries have ratified the Paris Agreement.  These countries account for over 90% of total global greenhouse gas emissions.</p>
                 </div>
                 <div class='graphic__vis'>
                     <div id="bubbleChart" class="chart"></div>
                 </div>
             </section>
             <section class="slide">
-                <p>As of September 2018, 180 out of 197 countries have ratified the agreement.</p>
+                <p>Nearly all of the nations of the world have ratified the agreement. Another 17 have signed but not yet ratified.</p>
                 <img src="img/ParisAgreementWorldMap.svg">
             </section>
             <section class="slide">
-                <p>The Paris Agreement is notable not only for the number of countries that have joined but the speed at which they did.</p>
+                <p>However, the Paris Agreement is notable not only for the number of countries that have joined but the speed at which they did.</p>
+                <p>In contrast, the Kyoto Protocol, another climate-related international agreement, took 5 years for 192 countries to join while the Doha Amendment took 6 years for 115 countries to sign on.
                 <div id="signedLineChart" class="chart"></div>
             </section>
             <section class="slide">
-                <p>But will the Paris Agreement help mitigate the impacts of climate change?</p>
-                <h2>Greenhouse Gas Emissions per Capita, 1990 - 2014</h2>
-                <div id="historicalEmissionsName" class="tooltip"></div>
+                <p id="willHelpText">But will the Paris Agreement help mitigate the impacts of climate change?</p>
+            </section>
+            <section class="slide">
+                <p>While total greenhouse gas emission has been increasing, emissions per person has remained relatively constant over the past 25 years. Indeed, many countries have been exhibiting a slight downward trend prior to the Paris Agreement being created.</p>
+                <h2 class="chartTitle">Greenhouse Gas Emissions per Capita, 1990 - 2014</h2>
+                <p id="historicalEmissionsName" class="tooltip"></p>
                 <div id="historicalEmissionsChart" class="chart"></div>
             </section>
             <section class="slide">
-                <p>See how emissions are affected by different forecast scenarios</p>
+                <p>While there is no way to see what the future holds, various models have been built to forecast how greenhouse gas emissions may change over the next century.</p>
+                <p>See what emissions may look like under different scenarios for select regions in the world.</p>
                 <div class="dropdownMenu">
                     <label for="regionSelector">Select region: </label>
                     <select id="regionSelector" autocomplete="off">

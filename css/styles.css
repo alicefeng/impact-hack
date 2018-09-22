@@ -8,6 +8,16 @@ p {
     font-size: 16px;
 }
 
+h1 {
+    text-align: center;
+    font-size: 7rem;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
 text {
     font-family: 'Lato';
     fill: #d5d5d4;
@@ -30,7 +40,7 @@ section.slide {
 }
 img {
     max-width: 100%;
-    margin: 20px 0;
+    margin-top: 10%;
 }
 
 .graphic {
@@ -44,7 +54,7 @@ img {
 .graphic__vis {
     position: absolute;
     top: 0;
-    margin-left: 200px;
+    margin-left: 250px;
     -webkit-transform: translate3d(0, 0, 0);
     -moz-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
@@ -71,6 +81,21 @@ img {
     transform: translateY(-50%);
 }
 
+#willHelpText {
+    margin-top: 20%;
+    font-size: 20px;
+}
+
+.chartTitle {
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+#historicalEmissionsName {
+    text-align: center;
+    margin: 40px 0 5px 0;
+}
+
 /******** Chart styles *******/
 .axis path,
 .axis line {
@@ -84,13 +109,13 @@ img {
 .country circle {
     fill: #adabac;
     transition-property: fill-opacity;
-    transition-duration: 2s;
+    transition-duration: 3s;
     fill-opacity: 1;
 }
 
 .country circle.hidden {
     transition-property: fill-opacity;
-    transition-duration: 2s;
+    transition-duration: 3s;
     fill-opacity: 0;
 }
 
@@ -98,13 +123,13 @@ img {
     fill: #1a1717;
     text-anchor: middle;
     transition-property: fill-opacity;
-    transition-duration: 2s;
+    transition-duration: 3s;
     fill-opacity: 1;
 }
 
 .countryNameLabel.hidden {
     transition-property: fill-opacity;
-    transition-duration: 2s;
+    transition-duration: 3s;
     fill-opacity: 0;
 }
 

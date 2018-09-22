@@ -1,6 +1,6 @@
 (function() {
-    var width = 800,
-        height = 500;
+    var width = 700,
+        height = 400;
 
     var margin = {left: 40, top: 40, right: 5, bottom: 50};
 
@@ -72,24 +72,25 @@
             .attr("d", function(d) { return line(d.values); })
             .attr("fill", "none")
             .attr("stroke", function(d) {
-                if(d.key === "Paris") {return "#fdbf11";}
-                else if(d.key === "Kyoto") {return "#0a4c6a";}
-                else if(d.key === "Doha") {return "#12719e";}
+                if(d.key === "Paris") {return "#e88e2d";}
+                else if(d.key === "Kyoto") {return "#d2d2d2";}
+                else if(d.key === "Doha") {return "#adabac";}
             })
             .attr("stroke-linejoin", "round")
             .attr("stroke-linecap", "round")
             .attr("stroke-width", 1.5);
 
         var label_dat = [
-            {treaty: "Paris", days_since_signed: 989, total_countries: 180},
-            {treaty: "Kyoto", days_since_signed: 1020, total_countries: 30},
-            {treaty: "Doha", days_since_signed: 1020, total_countries: 50}
+            {treaty: "Paris", days_since_signed: 1040, total_countries: 180},
+            {treaty: "Kyoto", days_since_signed: 1070, total_countries: 30},
+            {treaty: "Doha", days_since_signed: 1070, total_countries: 50}
         ];
 
         svg.selectAll("lineLabels")
             .data(label_dat)
             .enter()
             .append("text")
+            .attr("class", "lineLabel")
             .attr("x", function(d) { return xScale(d.days_since_signed) + 10; })
             .attr("y", function(d) { return d.treaty === "Paris" ? yScale(d.total_countries) : yScale(d.total_countries) + 15; })
             .attr("dy", "0.35em")
