@@ -52,19 +52,27 @@ img {
 /******** Chart styles *******/
 .country circle {
     fill: #1696d2;
+    transition-property: fill-opacity;
+    transition-duration: 2s;
     fill-opacity: 1;
 }
 
 .country circle.hidden {
+    transition-property: fill-opacity;
+    transition-duration: 2s;
     fill-opacity: 0;
 }
 
 .countryNameLabel {
     text-anchor: middle;
+    transition-property: fill-opacity;
+    transition-duration: 2s;
     fill-opacity: 1;
 }
 
 .countryNameLabel.hidden {
+    transition-property: fill-opacity;
+    transition-duration: 2s;
     fill-opacity: 0;
 }
 
